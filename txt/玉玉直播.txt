@@ -449,15 +449,10 @@ CCTV女性时尚,http://121.29.215.203:8888/rtp/239.253.92.144:6114
 海南卫视,http://121.29.215.203:7777/rtp/239.253.93.155:6323
 海南卫视,http://121.29.215.203:8888/rtp/239.253.93.155:6323
 广东频道,#genre#
-广东珠江,http://183.236.32.24:4433/hls/28/index.m3u8
-广东珠江,http://113.101.119.156:808/hls/105/index.m3u8
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 广东珠江,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
-广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-广东影视,http://cdn2.163189.xyz/live/gdys/stream.m3u8
 广东体育,http://tv.cdn.com.mp/live/gdty/stream.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-大湾区卫视,http://000000001000/1000000002000011619/index.m3u8
 东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
 数字超清,#genre#
