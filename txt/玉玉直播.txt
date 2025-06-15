@@ -460,7 +460,7 @@ CCTV女性时尚,http://121.29.215.203:8888/rtp/239.253.92.144:6114
 大湾区卫视,http://000000001000/1000000002000011619/index.m3u8
 东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
-联通数字超清,#genre#
+数字超清,#genre#
 纪实科教,http://121.29.169.138:7777/rtp/239.253.93.190:6358
 纪实科教,http://121.29.169.138:8888/rtp/239.253.93.190:6358
 纪实科教,http://121.29.169.227:7777/rtp/239.253.93.190:6358
@@ -558,7 +558,7 @@ CCTV4K超高清,http://121.29.169.26:7777/rtp/239.253.93.134:6631
 CCTV4K超高清,http://121.29.169.26:8888/rtp/239.253.93.134:6631
 CCTV4K超高清,http://121.29.215.203:7777/rtp/239.253.93.134:6631
 CCTV4K超高清,http://121.29.215.203:8888/rtp/239.253.93.134:6631
-数字剧场综艺,#genre#
+剧场综艺,#genre#
 家庭剧场,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d
 怀旧年代,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_883_720P_t10/c57_fast_883_720P_t10.m3u8?d
 都市生活,http://bscloudcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8?d
@@ -617,7 +617,7 @@ CCTV4K超高清,http://121.29.215.203:8888/rtp/239.253.93.134:6631
 柯南剧场版,https://fmbox.cc/huya.php?id=30080236  
 漫长的季节,https://fmbox.cc/huya.php?id=11342393
 
-「虎牙」,#genre#
+虎牙电影,#genre#
 电影_星爷,https://fmbox.cc/huya.php?id=11342412
 电影_星爷,https://fmbox.cc/huya.php?id=11336587
 电影_英叔,https://fmbox.cc/huya.php?id=11342421
