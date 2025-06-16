@@ -10,20 +10,6 @@
       "searchable": 0
     },
     {
-      "key": "csp_臻彩",
-      "name": "臻彩┃4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "hasTags": 1,
-      "hasPoster": 1,
-      "checkAlipan": 0,
-      "hasMeaningfulTitle": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "key": "海豚App",
       "name": "海豚｜App",
       "type": 3,
