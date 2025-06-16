@@ -929,8 +929,8 @@
       "name": "拾光自用",
       "type": 0,
       "url": "./txt/自用.txt",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.cn/tv/{name}.png",
+      "epg": "https://epg.112114.eu.org/",
+      "logo": "https://livecdn.zbds.top/logo/{name}.png",
       "playerType": 2,
       "timeout": 10
     }
