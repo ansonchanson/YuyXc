@@ -38,20 +38,6 @@
       }
     },
     {
-      "key": "橘猫",
-      "name": "橘猫｜APP",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "https://qjappcms.jm4k.top",
-        "dataKey": "pBVmysmGX8TsgrQN",
-        "dataIv": "pBVmysmGX8TsgrQN",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-    {
       "key": "好剧",
       "name": "好剧视频",
       "type": 3,
@@ -639,18 +625,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
-    },
-    {
-      "key": "csp_MiFun",
-      "name": "米饭｜动漫",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "api": "https://150.158.112.123/公众号玉玉应用笔记/js/mifuan.js",
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "aHR0cDovL2dldC5vcGVuLm1pZnVuLm9yZy9hcGkucGhwfEdFVE1JRlVOR0VJTUlGVU58R0VUTUlGVU5HRUlNSUZVTg=="
     },
     {
       "key": "哔哩哔哩",
